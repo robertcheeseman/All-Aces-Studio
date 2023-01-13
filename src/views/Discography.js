@@ -3,6 +3,6 @@ import { Link } from 'react-router-dom'
 
 export default function discography() {
   return (
-    <div>discography</div>
+    <div>this is the discography</div>
   )
 }

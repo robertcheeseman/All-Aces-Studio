@@ -3,6 +3,6 @@ import { Link } from 'react-router-dom'
 
 export default function Services() {
   return (
-    <div>Services</div>
+    <div>this is the Services</div>
   )
 }

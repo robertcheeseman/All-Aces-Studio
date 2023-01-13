@@ -3,6 +3,6 @@ import { Link } from 'react-router-dom'
 
 export default function studio() {
   return (
-    <div>studio</div>
+    <div>this is the studio</div>
   )
 }
