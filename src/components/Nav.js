@@ -6,6 +6,7 @@ export default function Nav() {
     <div>
         <nav className='navbar'>
             <div className='navcontainer'>
+              <p>All Aces Studio</p>
                 <ul>
                     <li><Link to="/Home">Home</Link></li>
                     <li><Link to="/Studio">Studio</Link></li>
