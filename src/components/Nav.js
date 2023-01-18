@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom'
 
 export default function Nav() {
   return (
-    <div>
+    <div className='navbackground'>
         <nav className='navbar'>
+          <img src="./assets/marshall_head.jpg" alt="" />
             <div className='navcontainer'>
               <p>All Aces Studio</p>
                 <ul>

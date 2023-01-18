@@ -13,6 +13,13 @@ code {
     monospace;
 }
 
+.navbackground {
+  background-image: url("./assets/marshall_head.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
+
 .navcontainer {
   display: flex;
 }
