@@ -23,6 +23,8 @@ ul {
   text-decoration: none;
 }
 
-ul li {
+
+li {
   padding: 10px;
+  color: red;
 }
