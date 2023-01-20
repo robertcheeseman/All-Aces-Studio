@@ -5,7 +5,7 @@ export default function Nav() {
   return (
     <div className='navbackground'>
         <nav className='navbar'>
-          <img src="../assets/marshall_head.jpg" alt="" />
+          <img src="/images/All-Aces-Body-Top.png" alt="" />
             <div className='navcontainer'>
               <p>All Aces Studio</p>
                 <ul>
