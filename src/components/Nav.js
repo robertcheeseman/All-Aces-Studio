@@ -7,17 +7,17 @@ export default function Nav() {
         <img src="/images/All-Aces-Body-Top.png" alt="" id='amphead'/>
         <div className='navlinks'>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/Home">Home</Link>
+            <Link to="/Home" className='links'>Home</Link>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/Studio">Studio</Link>
+            <Link to="/Studio" className='links'>Studio</Link>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/About">About</Link>
+            <Link to="/About" className='links'>About</Link>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/Services">Services</Link>
+            <Link to="/Services" className='links'>Services</Link>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/Discography">Discography</Link>
+            <Link to="/Discography" className='links'>Discography</Link>
             <img src="/images/knob1.png" alt="ampknob" />
-            <Link to="/Contact">Contact</Link>
+            <Link to="/Contact" className='links'>Contact</Link>
         </div>
     </div>
   )

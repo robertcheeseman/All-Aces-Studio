@@ -14,6 +14,9 @@ code {
 }
 
 .navbackground {
+  background-image: url('../public/images/background-texture.jpg');
+  background-repeat: repeat;
+  background-position: 0% 100%;
   display: flex;
   width: 100%;
   background-color: darkgray;
@@ -29,16 +32,23 @@ code {
   align-items: center;
   width: 70%;
   height: 10%;
-  background-color: orange;
   position: absolute;
   top: 51.5%;
   left: 21%;
 }
 
+.links {
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+}
+
 .pagebox {
   display: flex;
   width: 100%;
-  background-color: blue;
+  background-color: darkgray;
+  background-image: url('../public/images/background-texture.jpg');
+  background-repeat: repeat;
 }
 
 #ampcab {
