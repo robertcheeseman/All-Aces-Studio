@@ -5,18 +5,20 @@ export default function Nav() {
   return (
     <div className='navbackground'>
         <img src="/images/All-Aces-Body-Top.png" alt="" id='amphead'/>
-        {/* <nav className='navbar'>
-            <div className='navcontainer'>
-                <ul>
-                    <li><Link to="/Home">Home</Link></li>
-                    <li><Link to="/Studio">Studio</Link></li>
-                    <li><Link to="/About">About</Link></li>
-                    <li><Link to="/Services">Services</Link></li>
-                    <li><Link to="/Discography">Discography</Link></li>
-                    <li><Link to="/Contact">Contact</Link></li>
-                </ul>
-            </div>
-        </nav> */}
+        <div className='navlinks'>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/Home">Home</Link>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/Studio">Studio</Link>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/About">About</Link>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/Services">Services</Link>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/Discography">Discography</Link>
+            <img src="/images/knob1.png" alt="ampknob" />
+            <Link to="/Contact">Contact</Link>
+        </div>
     </div>
   )
 }
