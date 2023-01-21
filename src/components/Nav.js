@@ -4,10 +4,9 @@ import { Link } from 'react-router-dom'
 export default function Nav() {
   return (
     <div className='navbackground'>
-        <nav className='navbar'>
-          <img src="/images/All-Aces-Body-Top.png" alt="" />
+        <img src="/images/All-Aces-Body-Top.png" alt="" id='amphead'/>
+        {/* <nav className='navbar'>
             <div className='navcontainer'>
-              <p>All Aces Studio</p>
                 <ul>
                     <li><Link to="/Home">Home</Link></li>
                     <li><Link to="/Studio">Studio</Link></li>
@@ -17,7 +16,7 @@ export default function Nav() {
                     <li><Link to="/Contact">Contact</Link></li>
                 </ul>
             </div>
-        </nav>
+        </nav> */}
     </div>
   )
 }

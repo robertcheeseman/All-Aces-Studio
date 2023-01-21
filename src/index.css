@@ -14,25 +14,21 @@ code {
 }
 
 .navbackground {
-  background-image: url("./assets/marshall_head.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 50vh;
+  display: flex;
+  width: 100%;
   background-color: darkgray;
 }
 
-.navcontainer {
-  display: flex;
+#amphead {
+  width: 100%;
 }
 
-ul {
-  list-style: none;
+.pagebox {
   display: flex;
-  text-decoration: none;
+  width: 100%;
+  background-color: blue;
 }
 
-
-li {
-  padding: 10px;
-  color: red;
+#ampcab {
+  width: 100%;
 }
