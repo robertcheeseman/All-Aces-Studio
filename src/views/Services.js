@@ -3,9 +3,8 @@ import { Link } from 'react-router-dom'
 
 export default function Services() {
   return (
-    <div>this is the Services
-
-      We will describe mixing, mastering, tracking, etc...
+    <div>
+      <img src="/images/All-Aces-Body-Bot.png" alt="" id='ampcab'/>
     </div>
   )
 }
