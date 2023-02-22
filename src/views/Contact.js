@@ -5,7 +5,7 @@ export default function contact() {
   return (
     <div>This is the contact page
 
-      Obviously a contact form of some sort if that's your thing so people can get in touch with the studio
+      Obviously a contact form of some sort if that's your thing so people can get in touch with the studio to book it
     </div>
   )
 }
