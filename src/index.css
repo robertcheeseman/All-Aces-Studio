@@ -46,7 +46,7 @@ code {
 .pagebox {
   display: flex;
   width: 100%;
-  background-color: rgb(107, 103, 103);
+  background-color: rgb(107, 103, 110);
   background-image: url('../public/images/background-texture.jpg');
   background-repeat: repeat;
 }
