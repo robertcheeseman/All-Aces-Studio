@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function discography() {
   return (
-    <div>this is the discography page
+    <div>this is the discography page for album artwork
     </div>
   )
 }
