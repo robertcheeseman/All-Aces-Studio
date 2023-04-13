@@ -5,7 +5,7 @@ export default function studio() {
   return (
     <div>this is the studio page
 
-      List of gear, comp specs, instruments available, etc... including pics of everything on the list of gear amps
+      List of gear, comp specs, instruments available, etc... including pics of everything on the list of gear
     </div>
   )
 }
