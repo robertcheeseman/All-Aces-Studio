@@ -3,6 +3,6 @@ import { Link } from 'react-router-dom'
 
 export default function About() {
   return (
-    <div>About Page for the studio and Austin in general</div>
+    <div>About Page for the studio and Austin in general.</div>
   )
 }
